@@ -8,7 +8,7 @@ This was one of my course projects for Microprocessors.
 
 This program has been written in CodeVisionAVR, so simply open AP.prj using CodeVisionAVR and complie it. Use the .hex file to program the microcontroller.
 
-To run the simulation in preoteus, run the simulation and open digital oscilloscope from debug tab. 
+To run the simulation open Simulation.DSN in preoteus, run the simulation and open digital oscilloscope from debug tab. 
 Channel A (connected to port C) is the sine wave generated using a lookup table.
 Channel B (connected to port D) is the sine wave generated using the cordic algorithm.
 
