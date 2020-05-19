@@ -1,6 +1,6 @@
 # Cordic-Sine
 
-In this project the cordic algorithm is implemented in C to generate sine wave on an ATmega16. A Simulations of using it on ATmega16 in preoteus, 
+This project is an implementation of the [cordic algorithm](https://en.wikipedia.org/wiki/CORDIC) in C to generate sine wave on an ATmega16. A Simulations of using it on ATmega16 in preoteus, 
 and an implementation of cordic algorithm used to generate sine wave in Matlab are also available.
 This was one of my course projects for Microprocessors.
 
