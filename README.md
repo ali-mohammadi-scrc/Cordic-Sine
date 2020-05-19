@@ -12,6 +12,6 @@ To run the simulation in preoteus, run the simulation and open digital oscillosc
 Channel A (connected to port C) is the sine wave generated using a lookup table.
 Channel B (connected to port D) is the sine wave generated using the cordic algorithm.
 
-![See Simulation.jpg](/Simulation.jpg)
+![See Simulation.jpg](/Simulation.JPG)
 
 Also you can simply Cordic_Sine.m to see how cordic algorithm was used.
